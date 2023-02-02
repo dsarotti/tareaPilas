@@ -9,5 +9,4 @@ public class Pila<T> extends LinkedList<T> {
     public T pop(){
         return this.pollLast();
     }
-
 }
